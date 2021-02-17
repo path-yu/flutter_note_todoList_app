@@ -4,5 +4,4 @@
 
 ## Getting Started
 
-主要实现了便签和todo_list两个功能,
-下面是简单的图片
+主要实现了便签和todo_list两个功能
